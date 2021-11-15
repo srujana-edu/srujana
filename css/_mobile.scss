@@ -1,0 +1,18 @@
+/*for mobile*/
+@media ( max-width: 480px ) {
+	
+	
+	h1 {
+		margin-bottom: 20px;
+	}
+	.each-section {
+		
+		padding: 1%;
+		flex: 1 16%;
+		
+		line-height: 1;
+	}
+	.each-section, .Personalinfo{
+		padding-left: -1;
+	}
+}

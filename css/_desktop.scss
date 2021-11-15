@@ -1,0 +1,14 @@
+/*for desktop*/
+
+@media ( max-width: 920px ) {
+
+	.each-section {
+		flex: 1 21%;
+	}
+	
+	.allsections .each-section:first-child, 
+	.allsections .each-section:nth-child(2) {
+		flex: 2 46%;
+	}
+	
+}
